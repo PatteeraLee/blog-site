@@ -1,6 +1,6 @@
 ## Blog site Project
 
-Restaurant Review Blog that share reviews of restaurants with others.
+Restaurant Review Website that share reviews of restaurants with others.
 
 ![image](https://user-images.githubusercontent.com/82709004/121842455-a6fe9000-cd0a-11eb-8ccd-67108f66cf56.png)
 
